@@ -6,6 +6,7 @@ authors = ["Francis Genet <francis.genet@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+beautifulsoup4 = "^4.7"
 
 [tool.poetry.dev-dependencies]
 
